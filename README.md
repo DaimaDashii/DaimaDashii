@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Front End Developer && Ui/Ux✨<br>🔭Currently working on portfolio projects and e-commerce websites<br>🌱Learning to be a full stack developer 
+✨ Front End Developer && Ui Designer ✨<br>🔭Currently working on portfolio projects and e-commerce websites<br>🌱Learning to be a full stack developer 
 
 
 # 💻 Tech Stack:
